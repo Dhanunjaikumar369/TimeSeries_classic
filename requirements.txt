@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+statsmodels
+pmdarima
+openpyxl
+lxml
+html5lib
+beautifulsoup4
